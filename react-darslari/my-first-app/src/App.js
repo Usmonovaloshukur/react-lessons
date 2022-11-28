@@ -33,7 +33,7 @@ function App() {
   
   return (    
       <div className='app'>
-        
+        <h1>Azizbek yaxshi bo'ng</h1>
         <form>
           <h4 className="text-center">Create Your Post</h4>
           <MyInput
